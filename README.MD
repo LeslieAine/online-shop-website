@@ -28,7 +28,7 @@
 # 📖 [About the Project] <a name="about-project"></a>
 
 
-**[Leslie's Portfolio]** is a website that allows users to shop online froma business
+**[Leslie's Portfolio]** is a website that allows users to shop online from a business
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -65,7 +65,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Click [here](https://leslieaine.github.io/online-shop) to see the live demo of the project.
+- Click [here](https://leslieaine.github.io/online-shop-website) to see the live demo of the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
